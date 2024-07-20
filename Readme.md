@@ -1,4 +1,5 @@
-Olympic Games Data Analysis
+Olympic Games Data Analysis:
+
 This project aims to analyze the Olympic Games dataset to extract insights about participating countries, gender-wise participation, age demographics, and medal counts.
 The analysis covers the period from 1896 to 2016.
 
