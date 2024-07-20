@@ -1,11 +1,9 @@
 Olympic Games Data Analysis
 This project aims to analyze the Olympic Games dataset to extract insights about participating countries, gender-wise participation, age demographics, and medal counts.
-
 The analysis covers the period from 1896 to 2016.
 
 Project Structure:
  The dataset containing details of athletes who participated in the Olympic Games(athlete_events.csv).
- 
  The main script for analyzing the dataset(data.py).
 
 Analysis Overview:
