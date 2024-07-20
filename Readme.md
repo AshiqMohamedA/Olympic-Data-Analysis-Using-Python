@@ -11,14 +11,14 @@ Analysis Overview:
 
 The script data.py performs the following tasks:
 
-Print First Few Lines: Displays the first few lines and basic statistics of the dataset.
+Print First Few Lines -> Displays the first few lines and basic statistics of the dataset.
 
-Details of India: Extracts and displays details of athletes from India.
+Details of India -> Extracts and displays details of athletes from India.
 
-Top 10 Participating Countries: Analyzes and displays the top 10 participating countries.
+Top 10 Participating Countries -> Analyzes and displays the top 10 participating countries.
 
-Gender-wise Participation: Analyzes and visualizes gender-wise participation.
+Gender-wise Participation -> Analyzes and visualizes gender-wise participation.
 
-Age-wise Participation: Analyzes and visualizes age-wise participation.
+Age-wise Participation -> Analyzes and visualizes age-wise participation.
 
-Count of Medals: Analyzes and visualizes the count of medals won.
+Count of Medals -> Analyzes and visualizes the count of medals won.
